@@ -9,8 +9,8 @@ permalink: /kingsley-en/
 # Interview: Kingsley Ng Kah Hou (吴金帝)  
 ### — A Rising Chinese Star from Malaysia to the International Stage
 
-📅 Published: July 18, 2025  
-✍️ Editor: Persona Archive Editorial Team  
+Published: July 18, 2025  
+Editor: Persona Archive Editorial Team  
 
 🔄 [中文版](./kingsley)
 
@@ -24,28 +24,28 @@ In recent years, Kingsley has expanded his influence in the fashion and entertai
 
 ---
 
-## 🎖️ Honors & Awards
+##  Honors & Awards
 
-- 🏆 2022 International Outstanding Chinese Artist Award  
-- 🏆 2022 Malaysian Outstanding Chinese Youth Award  
-- 🏆 2022 Newcomer of the Year – Influence Award  
+-  2022 International Outstanding Chinese Artist Award  
+-  2022 Malaysian Outstanding Chinese Youth Award  
+-  2022 Newcomer of the Year – Influence Award  
   *(Presented by the International Cultural Exchange Association)*
 
 ---
 
-## 🌐 Media Features & References
+##  Media Features & References
 
-- 📄 [Guang Ming Daily Feature (PDF)](https://webcdn.guangming.com.my/wp-content/uploads/2023/10/光明Channel-粉丝专属电子册-006-J.pdf)  
-- 📰 [MyTruth Media – Interview Article](https://mytruthmedia.com/2022/12/24/malaysia-gold-star-awards-kingsley-ng/)  
-- 🗞️ [Moses Media Feature Report](https://moses-media.com/%e9%87%91%e6%98%9f%e5%a5%96%e9%a2%81%e5%a5%96%e5%85%b8%e7%a4%bc-%e8%91%97%e5%90%8d%e8%89%ba%e4%ba%ba-kingsley-ng-%e9%87%91%e5%b8%9d-%e8%8d%a3%e8%8e%b7%e4%b8%a4%e9%a1%b9%e5%a4%a7%e5%a5%96-%e6%84%9f/)
+-  [Guang Ming Daily Feature (PDF)](https://webcdn.guangming.com.my/wp-content/uploads/2023/10/光明Channel-粉丝专属电子册-006-J.pdf)  
+-  [MyTruth Media – Interview Article](https://mytruthmedia.com/2022/12/24/malaysia-gold-star-awards-kingsley-ng/)  
+-  [Moses Media Feature Report](https://moses-media.com/%e9%87%91%e6%98%9f%e5%a5%96%e9%a2%81%e5%a5%96%e5%85%b8%e7%a4%bc-%e8%91%97%e5%90%8d%e8%89%ba%e4%ba%ba-kingsley-ng-%e9%87%91%e5%b8%9d-%e8%8d%a3%e8%8e%b7%e4%b8%a4%e9%a1%b9%e5%a4%a7%e5%a5%96-%e6%84%9f/)
 
 ---
 
-## 📱 Official Social Media
+##  Official Social Media
 
 - Instagram: [@kingsleyngkh](https://instagram.com/kingsleyngkh)  
 - Facebook Page: [Kingsley Ng Official](https://facebook.com/kingsleyngkh)
 
 ---
 
-📝 This article was written by the Persona Archive Editorial Team. All rights reserved. Citation allowed with proper credit.
+ This article was written by the Persona Archive Editorial Team. All rights reserved. Citation allowed with proper credit.
