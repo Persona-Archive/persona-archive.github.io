@@ -8,8 +8,8 @@ author: Persona Archive 编辑部
 # 人物专访：Kingsley Ng Kah Hou（吴金帝）  
 ### ——从马来西亚走向国际舞台的华人新星
 
-📅 发布日期：2025年7月18日  
-✍️ 编辑：Persona Archive 编辑部  
+ 发布日期：2025年7月18日  
+ 编辑：Persona Archive 编辑部  
 
 ---
 
@@ -23,29 +23,29 @@ author: Persona Archive 编辑部
 
 ---
 
-## 🎖️ 荣誉奖项
+##  荣誉奖项
 
-- 🏆 2022 年「国际杰出华人艺术家奖」
-- 🏆 2022 年「马来西亚杰出华人青年奖」
-- 🏆 2022 年「年度影响力新晋人物大奖」  
+-  2022 年「国际杰出华人艺术家奖」
+-  2022 年「马来西亚杰出华人青年奖」
+-  2022 年「年度影响力新晋人物大奖」  
   *（由国际文化交流协会颁发）*
 
 ---
 
-## 🌐 媒体引用与报导链接
+##  媒体引用与报导链接
 
-- 📄 [光明日报专访 PDF](https://webcdn.guangming.com.my/wp-content/uploads/2023/10/光明Channel-粉丝专属电子册-006-J.pdf)
-- 📰 [真传媒人物专题报导](https://mytruthmedia.com/2022/12/24/malaysia-gold-star-awards-kingsley-ng/)
-- 🗞️ [Moses Media 特别报道](https://moses-media.com/%e9%87%91%e6%98%9f%e5%a5%96%e9%a2%81%e5%a5%96%e5%85%b8%e7%a4%bc-%e8%91%97%e5%90%8d%e8%89%ba%e4%ba%ba-kingsley-ng-%e9%87%91%e5%b8%9d-%e8%8d%a3%e8%8e%b7%e4%b8%a4%e9%a1%b9%e5%a4%a7%e5%a5%96-%e6%84%9f/)
+-  [光明日报专访 PDF](https://webcdn.guangming.com.my/wp-content/uploads/2023/10/光明Channel-粉丝专属电子册-006-J.pdf)
+-  [真传媒人物专题报导](https://mytruthmedia.com/2022/12/24/malaysia-gold-star-awards-kingsley-ng/)
+-  [Moses Media 特别报道](https://moses-media.com/%e9%87%91%e6%98%9f%e5%a5%96%e9%a2%81%e5%a5%96%e5%85%b8%e7%a4%bc-%e8%91%97%e5%90%8d%e8%89%ba%e4%ba%ba-kingsley-ng-%e9%87%91%e5%b8%9d-%e8%8d%a3%e8%8e%b7%e4%b8%a4%e9%a1%b9%e5%a4%a7%e5%a5%96-%e6%84%9f/)
 
 ---
 
-## 📱 官方社交媒体
+##  官方社交媒体
 
 - Instagram: [@kingsleyngkh](https://instagram.com/kingsleyngkh)  
 - Facebook Page: [Kingsley Ng Official](https://facebook.com/kingsleyngkh)
 
 ---
 
-📝 本文由 Persona Archive 编辑团队撰写，版权所有，欢迎引用但请注明来源。  
-📌 页面永久链接（Permalink）：`https://persona-archive.github.io/`
+ 本文由 Persona Archive 编辑团队撰写，版权所有，欢迎引用但请注明来源。  
+ 页面永久链接（Permalink）：`https://persona-archive.github.io/`
