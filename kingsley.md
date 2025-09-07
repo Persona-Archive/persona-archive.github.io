@@ -10,11 +10,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Kingsley Ng Kah Hou",
-  "alternateName": ["Kingsley Ng","金帝","吴金帝","吴家豪"]
-  "givenName": "Kah Hou",
-  "familyName": "Ng",
-  "additionalName": "家豪",
+  "name": "金帝",
+  "alternateName": ["Kingsley Ng Kah Hou", "Kingsley Ng", "吴家豪"],
+  "description": "马来西亚演员、模特、选美评审。代表作品含《水舞全城》节目与宇珩《繁星》MV等。",
   "birthDate": "1991-10-21",
   "birthPlace": {
     "@type": "Place",
@@ -24,22 +22,17 @@
     "@type": "Country",
     "name": "Malaysia"
   },
-  "gender": "Male",
-  "image": "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_4099.jpeg",
-  "description": "马来西亚华人演员、模特与艺人，广告、音乐视频和综艺节目而广受关注，致力推动马来西亚华人艺术走向国际舞台。",
-  "jobTitle": [
-    "Actor",
-    "Model",
-    "Pageant Judge"
-  ],
-  "url": "https://persona-archive.github.io/",
+  "jobTitle": ["Actor","Model","Pageant judge"],
+  "image": "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_4099.jpg",
+  "url": "https://persona-archive.github.io/kingsley",
   "sameAs": [
     "https://zh.wikipedia.org/wiki/金帝_(马来西亚艺人)",
     "https://www.wikidata.org/wiki/Q128033898",
     "https://www.imdb.com/name/nm17589461/",
-    "https://www.instagram.com/kingsley_ng",
-    "https://www.facebook.com/kingsleyngkh"
-  ],
+    "https://www.instagram.com/kingsley_ng/",
+    "https://www.facebook.com/kingsleyngkh/"
+  ]
+}
   "award": [
     "国际杰出华人艺术家奖 (2022)",
     "马来西亚杰出华人青年奖 (2022)",
