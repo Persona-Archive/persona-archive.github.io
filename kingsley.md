@@ -6,40 +6,52 @@
   <title>人物专访：Kingsley Ng Kah Hou（吴金帝）</title>
   
   <!-- JSON-LD 结构化数据 -->
- <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "金帝",
-  "alternateName": ["Kingsley Ng Kah Hou", "Kingsley Ng", "吴家豪"],
-  "description": "马来西亚演员、模特、选美评审。代表作品含《水舞全城》节目与宇珩《繁星》MV等。",
-  "birthDate": "1991-10-21",
-  "birthPlace": {
-    "@type": "Place",
-    "name": "Kota Kinabalu, Sabah, Malaysia"
-  },
-  "nationality": {
-    "@type": "Country",
-    "name": "Malaysia"
-  },
-  "jobTitle": ["Actor","Model","Pageant judge"],
-  "image": "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_4099.jpg",
-  "url": "https://persona-archive.github.io/kingsley",
-  "sameAs": [
-    "https://zh.wikipedia.org/wiki/金帝_(马来西亚艺人)",
-    "https://www.wikidata.org/wiki/Q128033898",
-    "https://www.imdb.com/name/nm17589461/",
-    "https://www.instagram.com/kingsley_ng/",
-    "https://www.facebook.com/kingsleyngkh/"
-  ]
-}
-  "award": [
-    "国际杰出华人艺术家奖 (2022)",
-    "马来西亚杰出华人青年奖 (2022)",
-    "年度影响力新晋人物大奖 (2022)"
-  ]
-}
-</script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "金帝",
+    "alternateName": "Kingsley Ng Kah Hou",
+    "description": "马来西亚演员、模特、选美评审。代表作品含《水舞全城》节目与宇珩《繁星》MV等。",
+    "birthDate": "1991-10-21",
+    "birthPlace": {
+      "@type": "Place",
+      "name": "Kota Kinabalu, Sabah, Malaysia"
+    },
+    "nationality": {
+      "@type": "Country",
+      "name": "Malaysia"
+    },
+    "jobTitle": "Actor",
+    "image": [ 
+      "https://commons.wikimedia.org/wiki/File:Kingsley_Ng_in_suit_2025.jpg",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_0138.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_8247.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_5855.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_5488.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_0147.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_0145.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_0144.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_0143.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_0142.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_0141.JPG",
+      "https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_4099.jpg"
+    ],
+    "url": "https://persona-archive.github.io/kingsley",
+    "sameAs": [
+      "https://zh.wikipedia.org/wiki/金帝_(马来西亚艺人)",
+      "https://www.wikidata.org/wiki/Q128033898",
+      "https://www.imdb.com/name/nm17589461/",
+      "https://www.instagram.com/kingsley_ng/",
+      "https://www.facebook.com/kingsleyngkh/"
+    ],
+    "award": [
+      "国际杰出华人艺术家奖 (2022)",
+      "马来西亚杰出华人青年奖 (2022)",
+      "年度影响力新晋人物大奖 (2022)"
+    ]
+  }
+  </script>
 </head>
 <body>
   <h1>人物专访：Kingsley Ng Kah Hou（吴金帝）</h1>
@@ -48,8 +60,14 @@
   <p><strong>发布日期：</strong>2025年7月18日<br>
   <strong>编辑：</strong>Persona Archive 编辑部</p>
 
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kingsley_Ng_in_suit_2025.jpg?width=600" 
+       alt="Kingsley Ng in suit (2025)" width="300">
+  <br>
+  <em>图片来源：<a href="https://commons.wikimedia.org/wiki/File:Kingsley_Ng_in_suit_2025.jpg" target="_blank">Wikimedia Commons</a></em>
+</p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_4099.jpeg" 
+    <img src="https://raw.githubusercontent.com/Persona-Archive/persona-archive.github.io/main/IMG_0138.JPG" 
          alt="Kingsley Ng" width="300">
   </p>
 
@@ -79,12 +97,12 @@
 
   <h2>官方社交媒体</h2>
   <ul>
-    <li>Instagram: <a href="https://instagram.com/kingsleyngkh" target="_blank">@kingsleyngkh</a></li>
+    <li>Instagram: <a href="https://www.instagram.com/kingsley_ng/" target="_blank">@kingsley_ng</a></li>
     <li>Facebook Page: <a href="https://facebook.com/kingsleyngkh" target="_blank">Kingsley Ng Official</a></li>
   </ul>
 
   <hr>
   <p>本文由 Persona Archive 编辑团队撰写，版权所有，欢迎引用但请注明来源。<br>
-  页面永久链接（Permalink）：<a href="https://persona-archive.github.io/">https://persona-archive.github.io/</a></p>
+  页面永久链接（Permalink）：<a href="https://persona-archive.github.io/kingsley">https://persona-archive.github.io/kingsley</a></p>
 </body>
 </html>
