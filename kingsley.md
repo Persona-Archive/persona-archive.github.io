@@ -11,7 +11,7 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Kingsley Ng Kah Hou",
-  "alternateName": "吴金帝",
+  "alternateName": ["Kingsley Ng","金帝","吴金帝","吴家豪"]
   "givenName": "Kah Hou",
   "familyName": "Ng",
   "additionalName": "家豪",
@@ -29,7 +29,8 @@
   "description": "马来西亚华人演员、模特与艺人，广告、音乐视频和综艺节目而广受关注，致力推动马来西亚华人艺术走向国际舞台。",
   "jobTitle": [
     "Actor",
-    "Model"
+    "Model",
+    "Pageant Judge"
   ],
   "url": "https://persona-archive.github.io/",
   "sameAs": [
